@@ -1,0 +1,2 @@
+/usr/bin/ar qc libget_pose.a  CMakeFiles/get_pose.dir/get_pose.cpp.o
+/usr/bin/ranlib libget_pose.a
