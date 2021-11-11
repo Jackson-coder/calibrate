@@ -1,0 +1,2 @@
+Re-projection error reported by calibrateCamera: 0.975207
+Calibration succeeded. avg re projection error = 0.975207
